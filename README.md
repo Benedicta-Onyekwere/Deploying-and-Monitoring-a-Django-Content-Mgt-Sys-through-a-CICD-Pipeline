@@ -1,1 +1,1 @@
-# Deploying-and-Monitoring-a-Django-Content-Mgt-System-through-a-CI-CD-Pipeline
+# Deploying-and-Monitoring-a-Django-Content-Mgt-Sys-through-a-CICD-Pipeline
